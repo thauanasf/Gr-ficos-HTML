@@ -1,2 +1,2 @@
-# Gr-ficos-HTML
+# Graficos-HTML
 Criando Gráficos com HTML
